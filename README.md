@@ -1,4 +1,4 @@
-### Halloj 👋
+# Halloj 👋
 
 ## Amanda här
 Välkommen till min sida! Jag studerar för till fället webbutveckling på *Mittuniversitetet* och förväntas ta examen 2022.
