@@ -1,10 +1,14 @@
-### Hi there 👋
+### Halloj 👋
+
+## Amanda här
+Välkommen till min sida! Jag studerar för till fället webbutveckling på *Mittuniversitetet* och förväntas ta examen 2022.
+
+## Vill du kontakta mig?
+Gör det då gärna på min e-post: [amandahwatz@gmail.com](mailto:amandahwatz@gmail.com)
+
+
 
 <!--
-**Ztawh/Ztawh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
