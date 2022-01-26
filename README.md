@@ -1,7 +1,7 @@
 # Halloj 👋
 
 ## Amanda här
-Välkommen till min sida! Jag studerar för till fället webbutveckling på *Mittuniversitetet* och förväntas ta examen 2022.
+Välkommen till min sida! Jag studerar för tillfället webbutveckling på *Mittuniversitetet* och förväntas ta examen 2022.
 
 ### Vill du kontakta mig?
 Gör det då gärna på min e-post: [amandahwatz@gmail.com](mailto:amandahwatz@gmail.com)
